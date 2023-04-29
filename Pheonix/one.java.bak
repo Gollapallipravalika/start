@@ -1,0 +1,12 @@
+class one
+{
+public static void main(String[] args)
+{
+System.out.println(10);
+System.out.println(20.25);
+System.out.println("Jspiders");
+System.out.println('A');
+System.out.println(True);
+
+}
+}

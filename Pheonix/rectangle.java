@@ -1,0 +1,20 @@
+class Rectangle 
+{
+static void rectangle()
+	{
+	int l=10;
+	int b=20;
+	int rectangle=l*b;
+	double area=l*l;
+	
+	System.out.println(rectangle);
+	System.out.println(area);
+	}
+	
+public static void main(String[] args) 
+	{
+		System.out.println("main starts");
+		rectangle();
+		System.out.println("main ends");
+	}
+}
